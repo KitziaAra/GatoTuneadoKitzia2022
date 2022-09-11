@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rosa_50">#ffe4ea</color>
+    <color name="rosa_100">#ffbbcc</color>
+    <color name="rosa_200">#F06292</color>
+    <color name="rosa_400">#ff376d</color>
+    <color name="rosa_800">#c5004c</color>
+    <color name="teal">#A7FFEB</color>
+    <color name="gris">#424242</color>
+    <color name="negro">#FF000000</color>
+    <color name="gris_100">#EEEEEE</color>
+    <color name="rosa">#feeff4</color>
+    <color name="gris_500">#9E9E9E</color>
+    <color name="rojo">#E53935</color>
+    <color name="azul">#2196F3</color>
+</resources>
